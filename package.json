@@ -1,2 +1,11 @@
-npm init -y
-npm install express
+{
+  "name": "express-project",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.x.x"
+  }
+}
